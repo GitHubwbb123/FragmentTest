@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentTest</string>
+    <string name="left_title">左边碎片的按钮</string>
+    <string name="right_title">右边碎片的文本框</string>
+    <string name="third_title">第三个碎片的文本框</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
